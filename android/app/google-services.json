@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "738558569041",
+    "project_id": "online-bank-785ca",
+    "storage_bucket": "online-bank-785ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738558569041:android:3b47417ade37b819ac6670",
+        "android_client_info": {
+          "package_name": "com.example.dars_70_home"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYvRv4PnV7hoY5H3UldpadD-58R6gXqhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
